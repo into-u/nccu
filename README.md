@@ -4,7 +4,7 @@ This GitHub repository offers a template specifically designed to teach students
 
 # Project Title
 
-[Exploring New York City Airbnb]
+[Exploring New York City Airbnb]
 
 ## Project Description
 
